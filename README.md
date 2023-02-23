@@ -5,4 +5,4 @@
 
 <br>
 <br>
-<img src"![image](https://user-images.githubusercontent.com/115674839/220996865-11c0b6ba-da1b-4aee-aa62-eff07040f016.png)" />
+<img src="https://github.com/Ilgor-Albertino/Projeto-Converso-de-Moedas/blob/master/img/convert.png?raw=true" />
